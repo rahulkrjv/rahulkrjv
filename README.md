@@ -23,13 +23,6 @@ Hello, I'm Rahul Kumar, a passionate software developer with a strong interest i
 ### Front End Development
 - 🌐 Proficient in Front End Development
 
-## Skills Snapshot
-
-- **Programming Languages:** C, C++, Python
-- **Machine Learning:** Interest and exploration in the field
-- **Data Science:** Good knowledge and understanding
-- **Front End Development:** Proficient in creating engaging user interfaces
-
 ## Get in Touch
 
 LinkedIn: [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-jnv/)
