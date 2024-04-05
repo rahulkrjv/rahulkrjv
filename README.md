@@ -23,6 +23,14 @@ Hello, I'm Rahul Kumar, a passionate software developer with a strong interest i
 ### Front End Development
 - 🌐 Proficient in Front End Development
 
+### GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahulkrjv&sideNums=9BEBE5)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkrjv&layout=compact)
+
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkrjv&show_icons=true&theme=radical)
+
 ## Get in Touch
 
 LinkedIn: [Rahul Kumar](https://www.linkedin.com/in/rahul-kumar-jnv/)
